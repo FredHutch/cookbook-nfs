@@ -1,7 +1,14 @@
 NFS
 ---
 
-[![Build Status](https://secure.travis-ci.org/atomic-penguin/cookbook-nfs.png?branch=master)](http://travis-ci.org/atomic-penguin/cookbook-nfs)
+> Note for Hutch Staff:
+>
+> This fork was made so that we can make local changes on the older versions of the cookbook.  The latest versions of this cookbook are no longer compatible with Chef 12.  There are also some dependency issues with other cookbooks in use here.
+>
+> **Make sure to make changes to the "2.5" branch.**
+>
+> When you make changes, make sure to tag with the version number and upload to both our supermarket and chef server.
+>
 
 Description
 -----------
